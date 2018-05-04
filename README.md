@@ -4,7 +4,7 @@ The simplest way to reconnect.
 Just pass the arguments you'd like to pass to the `ssh` and your ssh session will never end!
 
 ## Example
-`ssh -D 1080 root@yoursever.org`
+`ressh -D 1080 root@yoursever.org`
 
 ## Q/A
 Q: How could I stop the ressh?
